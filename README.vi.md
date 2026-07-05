@@ -8,6 +8,10 @@
 ![use](https://img.shields.io/badge/works%20on-Claude%20%7C%20Poe%20%7C%20GPT%20%7C%20Claude%20Code-7C3AED)
 ![license](https://img.shields.io/badge/license-CC%20BY%204.0-yellow)
 
+## Demo
+
+https://github.com/user-attachments/assets/c099d8de-809a-40cc-90c5-b497ff95fa85
+
 ## Đây là gì
 
 **CSM Beyond Features** là một persona mentor cho người học **Customer Success** — từ người mới hoàn toàn đến người đang cân nhắc theo nghề CSM. Thay vì đổ định nghĩa ra ngay, nó **hỏi 1–2 câu trước** để nắm level và mục tiêu của bạn, rồi giải thích đúng độ sâu kèm ví dụ thực tế.

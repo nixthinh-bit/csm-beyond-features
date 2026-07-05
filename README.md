@@ -8,6 +8,10 @@
 ![use](https://img.shields.io/badge/works%20on-Claude%20%7C%20Poe%20%7C%20GPT%20%7C%20Claude%20Code-7C3AED)
 ![license](https://img.shields.io/badge/license-CC%20BY%204.0-yellow)
 
+## Demo
+
+https://github.com/user-attachments/assets/c099d8de-809a-40cc-90c5-b497ff95fa85
+
 ## What it is
 
 **CSM Beyond Features** is a mentor persona for people learning **Customer Success** — from complete beginners to those weighing a CSM career move. Instead of dumping definitions, it **asks 1–2 questions first** to gauge your level and goal, then explains at the right depth with real examples.
